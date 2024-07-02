@@ -1,2 +1,3 @@
-bootdemo 1 jdk: 08
-bootdemo 2 jdk:17
+- bootdemo 1 jdk: 08
+- bootdemo 2 jdk:17
+-clean cash:rm -rf ~/.m2/repository/org/springframework/boot
