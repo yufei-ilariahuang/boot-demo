@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @author faye
  * @Description init SpringBoot
+ * https://docs.spring.io/spring-boot/tutorial/first-application/index.html
+ *
  * @create 2024-07-01
  */
 @RestController
